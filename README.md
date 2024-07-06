@@ -1,1 +1,0 @@
-# python-tic-tac-toe
